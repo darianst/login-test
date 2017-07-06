@@ -1,0 +1,10 @@
+Truelayer take home tech test
+
+1. Create a git repo and commit small and often
+2. Create a server that expose the content of `provider.json` as an API (feel free to change it slightly, i.e. the path of the images).
+3. Crate a SPA that consume that API and render screens 1 and 2 of `mobileV2.pdf`
+4. The submit button should post to an API of the previously created server
+5. Write a README with instructions on how to run your applications and server
+
+BONUS POINTS:
+- tests!
